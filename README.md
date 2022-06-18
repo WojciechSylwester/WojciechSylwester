@@ -1,6 +1,6 @@
-### Hi there! 👋
-I'm a final year student with a specialization in Data Science.
-I'm looking for an internship to gain more experience. 💪
+## Hi there! 👋
+**I'm a final year student with a specialization in Data Science.
+I'm looking for an internship to gain more experience.** 💪
 
 <h3 align="left">Languages and Tools:</h3>
   
@@ -11,7 +11,7 @@ I'm looking for an internship to gain more experience. 💪
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  
+
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 
