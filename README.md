@@ -1,6 +1,6 @@
 ## Hi there! 👋
 **I'm a final year student with a specialization in Data Science.
-I'm looking for an internship to gain more experience.** 💪
+I'm looking for a job to gain more experience.** 💪
 
 <h3 align="left">Languages and Tools:</h3>
   
