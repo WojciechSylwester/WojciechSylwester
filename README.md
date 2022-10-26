@@ -1,6 +1,5 @@
 ## Hi there! 👋
-**I'm a final year student with a specialization in Data Science.
-I'm looking for a job to gain more experience.** 💪
+**Data Scientist | Detail-oriented problem-solving using machine learning algorithms.** 💪
 
 <h3 align="left">Languages and Tools:</h3>
   
