@@ -11,9 +11,13 @@
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![](https://img.shields.io/badge/Flask-2b5b84?style=for-the-badge&logo=seaborn&logoColor=white)
+
 
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
