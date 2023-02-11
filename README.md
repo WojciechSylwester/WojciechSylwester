@@ -1,5 +1,7 @@
 ## Hi there! 👋
-**Data Scientist | Detail-oriented problem-solving using machine learning algorithms.** 💪
+**Data Scientist with a Master's degree in Data Science.**  🚀 
+
+**Detail-oriented problem-solving using machine learning algorithms.** 💪
 
 <h3 align="left">Languages and Tools:</h3>
   
