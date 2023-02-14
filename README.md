@@ -1,6 +1,6 @@
 **Data Scientist with a Master's degree in Big Data.**  🚀 
 
-**Detail-oriented problem-solving using machine learning algorithms.** 💪
+**Detail-oriented problem-solving using machine learning algorithms.** 👨‍💻
 
 <h3 align="left">Languages and Tools:</h3>
   
