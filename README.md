@@ -5,14 +5,14 @@
 <h3 align="left">Languages and Tools:</h3>
   
 ![](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/scikit_learn-333333?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Numpy-333333?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Seaborn-333333?style=for-the-badge&logo=seaborn&logoColor=white)
 ![](https://img.shields.io/badge/Matplotlib-333333?style=for-the-badge&logo=matplotlib&logoColor=white)
-![](https://img.shields.io/badge/Numpy-333333?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
 
 
