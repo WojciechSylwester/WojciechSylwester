@@ -5,19 +5,19 @@
 <h3 align="left">Languages and Tools:</h3>
   
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/scikit_learn-3776AB?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-![](https://img.shields.io/badge/Matplotlib-2e7eea?style=for-the-badge&logo=seaborn&logoColor=white)
-![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Flask-2C2D72?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![](https://img.shields.io/badge/Numpy-3776AB?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/GIT-3776AB?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_SQL_Server-3776AB?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=flask&logoColor=white)
 
 
-![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
+![](https://img.shields.io/badge/Jupyter-3776AB.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-3776AB?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 
 
 <h3 align="left">Connect with me:</h3>
