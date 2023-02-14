@@ -1,4 +1,4 @@
-**Data Scientist with a Master's degree in Data Science.**  🚀 
+**Data Scientist with a Master's degree in Big Data.**  🚀 
 
 **Detail-oriented problem-solving using machine learning algorithms.** 💪
 
